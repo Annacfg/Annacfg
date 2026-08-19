@@ -1,5 +1,3 @@
-<h1 align="center">🌸 Olá, eu sou Anna Clara! 🌸</h1>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F7A8C4&height=120&section=header&text=Anna%20Clara&fontColor=FFFFFF&fontSize=40&animation=fadeIn" />
 </p>
