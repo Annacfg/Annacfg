@@ -1,73 +1,81 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7A8C4&height=120&section=header&text=Anna%20Clara&fontColor=FFFFFF&fontSize=40&animation=fadeIn" />
-</p>
+<div align="center">
 
-<p align="center">
-  💗 Desenvolvedora apaixonada por tecnologia 💗
-</p>
+# ANNA CLARA
 
-<p align="center">
-  🌷 HTML • CSS • JavaScript • React 🌷
-</p>
+### FRONTEND DEVELOPER
+
+`JavaScript` · `React` · `HTML` · `CSS`
+
+</div>
 
 ---
 
-<h2 align="center">🎀 Sobre mim 🎀</h2>
+## ABOUT ME
 
-<p align="center">
-  Oii! Eu sou a <strong>Anna Clara</strong> 💕
-  <br>
-  Sou apaixonada por programação, tecnologia e por aprender coisas novas.
-  <br>
-  Atualmente estou estudando desenvolvimento web 🌸
-</p>
+Computer Science student focused on web development.
+
+Currently working with JavaScript, React, HTML, CSS and Node.js.
+
+Focused on building web interfaces, improving code quality and developing practical projects.
 
 ---
 
-<h2 align="center">💻 Tecnologias que estou aprendendo 💻</h2>
+## TECH STACK
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git" />
-</p>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode" />
 
-<h2 align="center">🌷 Meus projetos 🌷</h2>
-
-<p align="center">
-  💗 Em breve vou colocar meus projetos aqui! 💗
-</p>
+</div>
 
 ---
 
-<h2 align="center">📊 Minhas estatísticas 📊</h2>
+## PROJECTS
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Annacfg&show_icons=true&theme=rose_pine&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annacfg&layout=compact&theme=rose_pine&hide_border=true" />
-</p>
+<a href="https://github.com/Annacfg">
+<img src="https://img.shields.io/badge/GitHub-Annacfg-F28BB5?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
 
 ---
 
-<h2 align="center">🎀 Onde me encontrar 🎀</h2>
+## GITHUB STATS
 
-<p align="center">
-  <a href="https://github.com/Annacfg">
-    <img src="https://img.shields.io/badge/GitHub-Annacfg-F7A8C4?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  🌸 ──────── 💗 ──────── 🌸
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Annacfg&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F28BB5&icon_color=F28BB5&text_color=FFFFFF">
 
-<p align="center">
-  <i>“Aprendendo, criando e evoluindo um código por vez.”</i> 🌷
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annacfg&layout=compact&hide_border=true&bg_color=0D1117&title_color=F28BB5&text_color=FFFFFF">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7A8C4&height=100&section=footer" />
-</p>
+</div>
+
+---
+
+## ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Annacfg&bg_color=0D1117&color=F28BB5&line=F28BB5&point=FFFFFF&area=true&hide_border=true" width="95%">
+
+</div>
+
+---
+
+## CONNECT
+
+<div align="center">
+
+<a href="https://github.com/Annacfg">
+<img src="https://img.shields.io/badge/GITHUB-Annacfg-F28BB5?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+<div align="center">
+
+### Code is how I turn ideas into real things.
+
+</div>
