@@ -2,10 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F28BB5&height=160&section=header&text=ANNA%20CLARA&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<h3>FRONTEND DEVELOPER</h3>
+<h3>BEGINNER DEVELOPER</h3>
 
 <p>
-JavaScript · React · HTML · CSS
+Python · React · HTML · CSS
 </p>
 
 </div>
@@ -29,10 +29,9 @@ Computer Science student focused on web development.
 
 Currently working with:
 
-JavaScript
+Python
 React
 HTML & CSS
-Node.js
 Git & GitHub
 
 Focused on building interfaces, improving code quality and developing practical projects.
