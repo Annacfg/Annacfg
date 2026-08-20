@@ -105,7 +105,7 @@ alt="Anna Clara GitHub Activity"
 > Python
 > Git
 > Projetos pessoais
-</div>
+</div><br>
 <div align="center">
 ✦ vamos conversar? ✦ <br><br>
 <a href="https://github.com/Annacfg"> <img src="https://img.shields.io/badge/GITHUB-F58AB5?style=for-the-badge&logo=github&logoColor=white"> </a>
