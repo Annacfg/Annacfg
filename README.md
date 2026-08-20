@@ -96,7 +96,7 @@ Aplicação web desenvolvida para prática e estudo.
 > Projetos pessoais
 </div>
 <div align="center">
-✦ vamos conversar? ✦
+✦ vamos conversar? ✦ <br>
 <a href="https://github.com/Annacfg"> <img src="https://img.shields.io/badge/GITHUB-F58AB5?style=for-the-badge&logo=github&logoColor=white"> </a>
 
 <br><br>
