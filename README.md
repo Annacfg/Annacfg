@@ -27,7 +27,7 @@
 
 `Python` · `VScode` · `HTML` · `CSS`
 
-<img src="./galaxia.png" width="600">
+<img src="./galaxia.png" width="100%" height="180">
 </div>
 
 <div align="center">
