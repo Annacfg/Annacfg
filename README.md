@@ -2,16 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F58AB5&height=160&section=header" width="100%">
 
-
-### ✦ BEGINEER DEVELOPER ✦
-
-`JavaScript` · `React` · `HTML` · `CSS`
-
-🌸
-
-</div>
-<div align="center">
-
 ✦ ───────────────────────── ✦
 
 <br>
@@ -21,7 +11,16 @@ Annacfg
 <br>
 
 ✦ ───────────────────────── ✦
-</div>
+
+### ✦ BEGINEER DEVELOPER ✦
+
+`JavaScript` · `React` · `HTML` · `CSS`
+
+🌸
+
+
+<div align="center">
+
 ---
 
 <div align="center">
