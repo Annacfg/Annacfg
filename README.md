@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F58AB5&height=170&section=header&text=ANNA%20CLARA&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F58AB5&height=160&section=header" width="100%">
 
-### ✦ FRONTEND DEVELOPER ✦
+
+### ✦ BEGINEER DEVELOPER ✦
 
 `JavaScript` · `React` · `HTML` · `CSS`
 
@@ -10,16 +11,24 @@
 
 </div>
 
+✦ ───────────────────────── ✦
+
+<br>
+
+Annacfg
+
+<br>
+
+✦ ───────────────────────── ✦
+
 ---
 
 <div align="center">
 
 ## ✦ `welcome` ✦
 
-annacfg@github:~$ whoami
-
 Anna Clara
-Frontend Developer
+16y
 </div>
 
 <div align="center">
@@ -30,7 +39,7 @@ Estudante de desenvolvimento de sistemas.
 Focada em desenvolvimento web e criação de interfaces.
 
 Atualmente estudando e desenvolvendo projetos com
-JavaScript, React, HTML, CSS e Node.js.
+Python, HTML e CSS.
 
 </div>
 <div align="center">
@@ -67,8 +76,9 @@ Aplicação web desenvolvida para prática e estudo.
 ✦ foco atual ✦
 > Desenvolvimento web
 > Frontend
-> JavaScript
-> React
+> Backend
+> Python
+> Git
 > Projetos pessoais
 </div>
 <div align="center">
@@ -79,14 +89,5 @@ Aplicação web desenvolvida para prática e estudo.
 
 <a href="https://instagram.com/"> <img src="https://img.shields.io/badge/INSTAGRAM-F58AB5?style=for-the-badge&logo=instagram&logoColor=white"> </a> </div> <br> <div align="center">
 
-✦ ───────────────────────── ✦
-
-<br>
-
-Annacfg
-
-<br>
-
-✦ ───────────────────────── ✦
 
 <br> <img src="https://komarev.com/ghpvc/?username=Annacfg&label=VISITAS&color=F58AB5&style=for-the-badge"> </div> <br> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=F58AB5&height=100&section=footer" width="100%"> </div> ```
