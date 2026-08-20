@@ -27,7 +27,7 @@
 
 `Python` · `VScode` · `HTML` · `CSS`
 
-🌸
+<img src="./344103227805228758.jpg" width="700">
 </div>
 
 <div align="center">
