@@ -1,15 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F58AB5&height=160&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F58AB5&height=170&section=header&text=ANNA%20CLARA&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%">
 
-</div>
-
-<div align="center">
-
-# Annacfg
-
-</div>
-### ✦ BEGINEER DEVELOPER ✦
+### ✦ FRONTEND DEVELOPER ✦
 
 `JavaScript` · `React` · `HTML` · `CSS`
 
@@ -23,13 +16,12 @@
 
 ## ✦ `welcome` ✦
 
-
 annacfg@github:~$ whoami
 
 Anna Clara
 Frontend Developer
-
 </div>
+
 <div align="center">
 ✦ sobre mim ✦
 
@@ -38,7 +30,7 @@ Estudante de desenvolvimento de sistemas.
 Focada em desenvolvimento web e criação de interfaces.
 
 Atualmente estudando e desenvolvendo projetos com
-Python, HTML, CSS.
+JavaScript, React, HTML, CSS e Node.js.
 
 </div>
 <div align="center">
@@ -74,8 +66,9 @@ Aplicação web desenvolvida para prática e estudo.
 <div align="center">
 ✦ foco atual ✦
 > Desenvolvimento web
-> Front e Backend
-> Python
+> Frontend
+> JavaScript
+> React
 > Projetos pessoais
 </div>
 <div align="center">
