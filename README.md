@@ -98,12 +98,12 @@ alt="Anna Clara GitHub Activity"
 </div>
 <div align="center">
 ✦ foco atual ✦ <br>
-> Desenvolvimento web <br>
-> Frontend <br>
-> Backend <br>
-> Python <br>
-> Git <br>
-> Projetos pessoais <br>
+> Desenvolvimento web 
+> Frontend
+> Backend 
+> Python 
+> Git
+> Projetos pessoais
 </div><br>
 <div align="center">
 ✦ vamos conversar? ✦ <br><br>
