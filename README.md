@@ -73,7 +73,7 @@ Python, HTML e CSS.
 
 </div><br>
 <div align="center">
-✦ projetos ✦
+✦ projetos ✦ <br>
 <table> <tr> <td width="50%" align="center">
 portfolio
 
