@@ -22,13 +22,13 @@
 
 ✦ ───────────────────────── ✦
 
-</div>
+
 ### ✦ BEGINEER DEVELOPER ✦
 
 `Python` · `VScode` · `HTML` · `CSS`
 
 🌸
-
+</div>
 
 <div align="center">
 
