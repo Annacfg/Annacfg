@@ -26,7 +26,7 @@
 
 ✦ ───────────────────────── ✦
 
-### ✦ BEGINEER DEVELOPER ✦
+### ✦ BEGINNER DEVELOPER ✦
 
 `Python` · `VScode` · `HTML` · `CSS`
 
