@@ -55,8 +55,25 @@ Python, HTML e CSS.
 
 </div>
 <div align="center">
-✦ tecnologias ✦<br><br>
-<img src="https://img.shields.io/badge/HTML5-F58AB5?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-F58AB5?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F58AB5?style=for-the-badge&logo=javascript&logoColor=white"> <br> <img src="https://img.shields.io/badge/React-F58AB5?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-F58AB5?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Git-F58AB5?style=for-the-badge&logo=git&logoColor=white"> <br> <img src="https://img.shields.io/badge/GitHub-F58AB5?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/VS%20Code-F58AB5?style=for-the-badge&logo=visualstudiocode&logoColor=white"> </div>
+
+✦ tecnologias ✦
+
+<br><br>
+
+<img src="https://img.shields.io/badge/HTML5-F58AB5?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-F58AB5?style=for-the-badge&logo=css3&logoColor=white">
+
+<br>
+
+<img src="https://img.shields.io/badge/PYTHON-F58AB5?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/GIT-F58AB5?style=for-the-badge&logo=git&logoColor=white">
+
+<br>
+
+<img src="https://img.shields.io/badge/GITHUB-F58AB5?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VS%20CODE-F58AB5?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+
+</div>
 <div align="center">
 ✦ projetos ✦
 <table> <tr> <td width="50%" align="center">
