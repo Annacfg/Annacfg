@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F58AB5&height=170&section=header&text=ANNA%20CLARA&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F58AB5&height=160&section=header" width="100%">
 
 ### ✦ FRONTEND DEVELOPER ✦
 
