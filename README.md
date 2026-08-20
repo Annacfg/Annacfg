@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=C8A2C8&height=160&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=cab8fa&height=160&section=header" width="100%">
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
@@ -18,13 +18,11 @@
 
 ✦ ───────────────────────── ✦ 
 
-
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=32&duration=2500&pause=1000&color=C8A2C8&center=true&vCenter=true&width=250&lines=Annacfg" alt="Annacfg">
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=32&duration=2500&pause=1000&color=cab8fa&center=true&vCenter=true&width=250&lines=Annacfg" alt="Annacfg">
 
 ✦ ───────────────────────── ✦
 
+</div>
 ### ✦ BEGINEER DEVELOPER ✦
 
 `Python` · `VScode` · `HTML` · `CSS`
