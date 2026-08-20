@@ -26,7 +26,7 @@
 
 ### ✦ BEGINEER DEVELOPER ✦
 
-`JavaScript` · `React` · `HTML` · `CSS`
+`Python` · `VScode` · `HTML` · `CSS`
 
 🌸
 
@@ -41,6 +41,7 @@
 
 Anna Clara
 16y
+K-pop
 </div>
 
 <div align="center">
