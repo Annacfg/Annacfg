@@ -18,8 +18,13 @@
 
 ✦ ───────────────────────── ✦ 
 
-<h2>𝓐𝓷𝓷𝓪𝓬𝓯𝓰</h2>
+<h2 style="color: #f286a4;">𝓐𝓷𝓷𝓪𝓬𝓯𝓰</h2>
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=32&duration=2500&pause=1000&color=F58AB5&center=true&vCenter=true&width=250&lines=Annacfg" alt="Annacfg">
+
+</div>
 
 ✦ ───────────────────────── ✦
 
