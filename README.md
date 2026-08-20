@@ -90,9 +90,9 @@ Projeto pessoal desenvolvido para apresentar meus trabalhos.
 <br> <a href="https://github.com/Annacfg"> <img src="https://img.shields.io/badge/VER%20PROJETO-BB8AFF?style=for-the-badge&logo=github&logoColor=white"> </a> </td> <td width="50%" align="center">
 web project
 
-Aplicação web desenvolvida para prática e estudo.
+Aplicação HTML desenvolvida para prática e estudo.
 
-<br> <a href="https://github.com/Annacfg"> <img src="https://img.shields.io/badge/VER%20PROJETO-BB8AFF?style=for-the-badge&logo=github&logoColor=white"> </a> </td> </tr> </table> </div>
+<br> <a href="[https://github.com/Annacfg](https://github.com/Annacfg/site-tres-paginas)"> <img src="https://img.shields.io/badge/VER%20PROJETO-BB8AFF?style=for-the-badge&logo=github&logoColor=white"> </a> </td> </tr> </table> </div>
 <div align="center">
 
 ✦ github stats ✦
