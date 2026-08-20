@@ -73,7 +73,7 @@ Python, HTML e CSS.
 
 </div><br>
 <div align="center">
-✦ projetos ✦ <br>
+✦ projetos ✦ <br><br>
 <table> <tr> <td width="50%" align="center">
 portfolio
 
@@ -86,11 +86,22 @@ Aplicação web desenvolvida para prática e estudo.
 
 <br> <a href="https://github.com/Annacfg"> <img src="https://img.shields.io/badge/VER%20PROJETO-F58AB5?style=for-the-badge&logo=github&logoColor=white"> </a> </td> </tr> </table> </div>
 <div align="center">
+
 ✦ github stats ✦
 
-<img src="https://github-readme-stats.vercel.app/api?username=Annacfg&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F58AB5&icon_color=F58AB5&text_color=FFFFFF" height="170" />
+<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annacfg&layout=compact&hide_border=true&bg_color=0D1117&title_color=F58AB5&text_color=FFFFFF" height="170" />
+<img
+src="https://github-readme-stats.vercel.app/api?username=Annacfg&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F58AB5&icon_color=F58AB5&text_color=FFFFFF"
+height="170"
+alt="GitHub Stats"
+/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annacfg&layout=compact&hide_border=true&bg_color=0D1117&title_color=F58AB5&text_color=FFFFFF"
+height="170"
+alt="Top Languages"
+/>
 
 </div>
 <div align="center">
