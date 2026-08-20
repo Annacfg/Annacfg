@@ -92,15 +92,23 @@ Aplicação web desenvolvida para prática e estudo.
 <br><br>
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=Annacfg&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F58AB5&icon_color=F58AB5&text_color=FFFFFF"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Annacfg&theme=rose_pine"
+width="95%"
+alt="GitHub Profile Summary"
+/>
+
+<br><br>
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Annacfg&theme=rose_pine"
 height="170"
-alt="GitHub Stats"
+alt="Repositories per language"
 />
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annacfg&layout=compact&hide_border=true&bg_color=0D1117&title_color=F58AB5&text_color=FFFFFF"
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Annacfg&theme=rose_pine"
 height="170"
-alt="Top Languages"
+alt="Most commit language"
 />
 
 </div>
