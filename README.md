@@ -59,18 +59,18 @@ Python, HTML e CSS.
 
 ✦ tecnologias ✦
 
-<img src="https://img.shields.io/badge/HTML-F58AB5?style=for-the-badge&logo=html&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-F58AB5?style=for-the-badge&logo=css&logoColor=white">
+<img src="https://img.shields.io/badge/HTML-CAB8FA?style=for-the-badge&logo=html&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-CAB8FA?style=for-the-badge&logo=css&logoColor=white">
 
 <br>
 
-<img src="https://img.shields.io/badge/PYTHON-F58AB5?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/GIT-F58AB5?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/PYTHON-CAB8FA?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/GIT-CAB8FA?style=for-the-badge&logo=git&logoColor=white">
 
 <br>
 
-<img src="https://img.shields.io/badge/GITHUB-F58AB5?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/VS%20CODE-F58AB5?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/GITHUB-CAB8FA?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VS%20CODE-CAB8FA?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 
 </div><br>
 <div align="center">
@@ -80,18 +80,18 @@ portfolio
 
 Projeto pessoal desenvolvido para apresentar meus trabalhos.
 
-<br> <a href="https://github.com/Annacfg"> <img src="https://img.shields.io/badge/VER%20PROJETO-F58AB5?style=for-the-badge&logo=github&logoColor=white"> </a> </td> <td width="50%" align="center">
+<br> <a href="https://github.com/Annacfg"> <img src="https://img.shields.io/badge/VER%20PROJETO-CAB8FA?style=for-the-badge&logo=github&logoColor=white"> </a> </td> <td width="50%" align="center">
 web project
 
 Aplicação web desenvolvida para prática e estudo.
 
-<br> <a href="https://github.com/Annacfg"> <img src="https://img.shields.io/badge/VER%20PROJETO-F58AB5?style=for-the-badge&logo=github&logoColor=white"> </a> </td> </tr> </table> </div>
+<br> <a href="https://github.com/Annacfg"> <img src="https://img.shields.io/badge/VER%20PROJETO-CAB8FA?style=for-the-badge&logo=github&logoColor=white"> </a> </td> </tr> </table> </div>
 <div align="center">
 
 ✦ github stats ✦
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Annacfg&bg_color=0D1117&color=F58AB5&line=F58AB5&point=FFFFFF&area=true&hide_border=true"
+src="https://github-readme-activity-graph.vercel.app/graph?username=Annacfg&bg_color=0D1117&color=CAB8FA&line=CAB8FA&point=FFFFFF&area=true&hide_border=true"
 width="95%"
 alt="Anna Clara GitHub Activity"
 />
@@ -109,10 +109,10 @@ alt="Anna Clara GitHub Activity"
 <div align="center">
 ✦ vamos conversar? ✦ <br><br>
 <a href="mailto:fariaguimaraesannaclara@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-F58AB5?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/EMAIL-CAB8FA?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <br>
-<a href="https://www.instagram.com/annaafgcl"> <img src="https://img.shields.io/badge/INSTAGRAM-F58AB5?style=for-the-badge&logo=instagram&logoColor=white"> </a> </div> <br> <div align="center">
+<a href="https://www.instagram.com/annaafgcl"> <img src="https://img.shields.io/badge/INSTAGRAM-CAB8FA?style=for-the-badge&logo=instagram&logoColor=white"> </a> </div> <br> <div align="center">
 
 
-<br> <img src="https://komarev.com/ghpvc/?username=Annacfg&label=VISITAS&color=F58AB5&style=for-the-badge"> </div> <br> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=F58AB5&height=100&section=footer" width="100%"> </div> ```
+<br> <img src="https://komarev.com/ghpvc/?username=Annacfg&label=VISITAS&color=F58AB5&style=for-the-badge"> </div> <br> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=CAB8FA&height=100&section=footer" width="100%"> </div> ```
