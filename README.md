@@ -39,9 +39,9 @@
 
 ## ✦ `welcome` ✦
 
-Anna Clara
-16y
-K-pop
+Anna Clara <br>
+16y <br>
+K-pop <br>
 </div>
 
 <div align="center">
