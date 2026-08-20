@@ -114,5 +114,18 @@ alt="Anna Clara GitHub Activity"
 <br>
 <a href="https://www.instagram.com/annaafgcl"> <img src="https://img.shields.io/badge/INSTAGRAM-CAB8FA?style=for-the-badge&logo=instagram&logoColor=white"> </a> </div> <br> <div align="center">
 
+<div align="center">
+
+⢀⣤⣄⡀        ⁺<br>
+⣇⠈⠙⠿⣦⣀⣀⣀⣤⡴⠶⠛⢓⡄<br>
+⠈⠛⠛⠛⢋⡿⠋⠻⣯⡑⠒⠛⠋<br>
+⠀ ⁺⠀⢠⡟⠀⠀⠀⠘⣿⣆⠀    ⁺<br>
+⠀⠀⠀⣾⡇⠀⠀⠀⠀⢸⡿   ⟡<br>
+⠀⠀⠀⣿⣷⠀⠀⠀⠀⡼⠁<br>
+⠀⠀⠀⢸⣿⡄⠀⠀⠀⢷⣄<br>
+⟡⠀⠀⢸⣿⠃⠀⠀⠀⠀⠉⠀⠀⁺<br>
+⠀⠀⠠⠞⠁
+
+</div>
 
 <br> <img src="https://komarev.com/ghpvc/?username=Annacfg&label=VISITAS&color=CAB8FA&style=for-the-badge"> </div> <br> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=CAB8FA&height=100&section=footer" width="100%"> </div> ```
