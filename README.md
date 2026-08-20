@@ -51,6 +51,7 @@
 <img src="./galaxia.png" width="100%" height="180">
 <br>
 <div align="center">
+  
 ## ✦ `sobre mim` ✦ <br><br>
 
 Estudante de desenvolvimento de sistemas.
