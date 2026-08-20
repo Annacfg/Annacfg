@@ -82,7 +82,7 @@ Python, HTML e CSS.
 </div><br>
 <div align="center">
 ✦ projetos ✦ <br><br>
-<tabel></tabel><table> <tr> <td width="50%" align="center">
+<tabel>.</tabel><table> <tr> <td width="50%" align="center">
 portfolio
 
 Projeto pessoal desenvolvido para apresentar meus trabalhos.
