@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/galaxy-wave.gif" width="100%" alt="Galaxy">
+<img src="annacfg_galaxy_wave.gif" width="100%" alt="Galaxy">
 
 
 
