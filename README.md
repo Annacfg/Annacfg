@@ -1,9 +1,6 @@
 <div align="center">
 
-<img src="annacfg_galaxy_wave.gif" width="100%" alt="Galaxy">
-
-
-
+<img src="./galaxia.png" width="100%" height="180">
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
@@ -30,7 +27,7 @@
 
 `Python` · `VScode` · `HTML` · `CSS`
 
-<img src="./galaxia.png" width="100%" height="180">
+
 </div>
 
 <div align="center">
