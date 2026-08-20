@@ -89,8 +89,6 @@ Aplicação web desenvolvida para prática e estudo.
 
 ✦ github stats ✦
 
-<br><br>
-
 <img
 src="https://github-readme-activity-graph.vercel.app/graph?username=Annacfg&bg_color=0D1117&color=F58AB5&line=F58AB5&point=FFFFFF&area=true&hide_border=true"
 width="95%"
