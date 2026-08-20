@@ -107,7 +107,9 @@ alt="Anna Clara GitHub Activity"
 </div><br>
 <div align="center">
 ✦ vamos conversar? ✦ <br><br>
-<a href="https://github.com/Annacfg"> <img src="https://img.shields.io/badge/GITHUB-F58AB5?style=for-the-badge&logo=github&logoColor=white"> </a>
+<a href="mailto:fariaguimaraesannaclara@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-F58AB5?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 <br>
 <a href="https://instagram.com/"> <img src="https://img.shields.io/badge/INSTAGRAM-F58AB5?style=for-the-badge&logo=instagram&logoColor=white"> </a> </div> <br> <div align="center">
 
