@@ -2,7 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F58AB5&height=160&section=header" width="100%">
 
-### ✦ FRONTEND DEVELOPER ✦
+</div>
+
+<div align="center">
+
+# Annacfg
+
+</div>
+### ✦ BEGINEER DEVELOPER ✦
 
 `JavaScript` · `React` · `HTML` · `CSS`
 
@@ -31,7 +38,7 @@ Estudante de desenvolvimento de sistemas.
 Focada em desenvolvimento web e criação de interfaces.
 
 Atualmente estudando e desenvolvendo projetos com
-JavaScript, React, HTML, CSS e Node.js.
+Python, HTML, CSS.
 
 </div>
 <div align="center">
@@ -67,9 +74,8 @@ Aplicação web desenvolvida para prática e estudo.
 <div align="center">
 ✦ foco atual ✦
 > Desenvolvimento web
-> Frontend
-> JavaScript
-> React
+> Front e Backend
+> Python
 > Projetos pessoais
 </div>
 <div align="center">
