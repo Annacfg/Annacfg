@@ -42,7 +42,7 @@ Atualmente estudando e desenvolvendo projetos com
 Python, HTML e CSS.
 
 </div>
-<div align="center">
+<div align="center"><br>
 ✦ tecnologias ✦
 <img src="https://img.shields.io/badge/HTML5-F58AB5?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-F58AB5?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F58AB5?style=for-the-badge&logo=javascript&logoColor=white"> <br> <img src="https://img.shields.io/badge/React-F58AB5?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-F58AB5?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Git-F58AB5?style=for-the-badge&logo=git&logoColor=white"> <br> <img src="https://img.shields.io/badge/GitHub-F58AB5?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/VS%20Code-F58AB5?style=for-the-badge&logo=visualstudiocode&logoColor=white"> </div>
 <div align="center">
