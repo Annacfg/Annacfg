@@ -92,10 +92,8 @@ web project
 
 Aplicação HTML desenvolvida para prática e estudo.
 
-<br>
-<a href="https://github.com/Annacfg/site-tres-paginas" target="_blank">
-<img src="https://img.shields.io/badge/VER%20PROJETO-CAB8FA?style=for-the-badge&logo=github&logoColor=white">
-</a></div>
+<br> <a href="https://github.com/Annacfg"> <img src="https://img.shields.io/badge/VER%20PROJETO-BB8AFF?style=for-the-badge&logo=github&logoColor=white"> </a> </td> <td width="50%" align="center">
+</div>
 <div align="center">
 
 ✦ github stats ✦
