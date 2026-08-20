@@ -58,8 +58,6 @@ Python, HTML e CSS.
 
 ✦ tecnologias ✦
 
-<br>
-
 <img src="https://img.shields.io/badge/HTML5-F58AB5?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-F58AB5?style=for-the-badge&logo=css3&logoColor=white">
 
@@ -73,7 +71,7 @@ Python, HTML e CSS.
 <img src="https://img.shields.io/badge/GITHUB-F58AB5?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/VS%20CODE-F58AB5?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 
-</div>
+</div><br>
 <div align="center">
 ✦ projetos ✦
 <table> <tr> <td width="50%" align="center">
