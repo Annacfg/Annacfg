@@ -45,7 +45,7 @@ K-pop <br>
 </div>
 
 <div align="center">
-✦ sobre mim ✦
+✦ sobre mim ✦ <br>
 
 Estudante de desenvolvimento de sistemas.
 
