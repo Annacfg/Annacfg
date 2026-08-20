@@ -20,7 +20,7 @@
 
 <br>
 
-Annacfg
+<h3>Annacfg</h3>
 
 <br>
 
@@ -96,11 +96,9 @@ Aplicação web desenvolvida para prática e estudo.
 > Projetos pessoais
 </div>
 <div align="center">
-✦ vamos conversar? ✦ <br>
+✦ vamos conversar? ✦ <br><br>
 <a href="https://github.com/Annacfg"> <img src="https://img.shields.io/badge/GITHUB-F58AB5?style=for-the-badge&logo=github&logoColor=white"> </a>
-
-<br><br>
-
+<br>
 <a href="https://instagram.com/"> <img src="https://img.shields.io/badge/INSTAGRAM-F58AB5?style=for-the-badge&logo=instagram&logoColor=white"> </a> </div> <br> <div align="center">
 
 
