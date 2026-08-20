@@ -43,9 +43,9 @@ Anna Clara <br>
 16y <br>
 K-pop <br>
 </div>
-
+<br>
 <div align="center">
-✦ sobre mim ✦ <br><br>
+✦ sobre mim ✦ <br>
 
 Estudante de desenvolvimento de sistemas.
 
