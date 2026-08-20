@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BB8AFF&height=160&section=header" width="100%">
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=32&duration=2500&pause=1000&color=BB8AFF&center=true&vCenter=true&width=250&lines=Annacfg" alt="Annacfg">
+
 
 
 
@@ -20,7 +20,9 @@
 ⠀⠀⠀⢻⡇⣀⡀⠀⠺⣿⠇⠀⣀⣤⣄⣀⣠⣬⣥⣤⠾⠛⠁⠀⠀⠀⠀⠀⠀⠀<br>
 ⠀⠀⠀⠀⠉⠛⠓⠂⠤⠤⠖⠊⠉⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br><br>
 
+✦ ───────────────────────── ✦
 
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=32&duration=2500&pause=1000&color=BB8AFF&center=true&vCenter=true&width=250&lines=Annacfg" alt="Annacfg">
 
 ### ✦ BEGINEER DEVELOPER ✦
 
