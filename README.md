@@ -1,5 +1,8 @@
 <div align="center">
 
+<img src="./assets/galaxy-wave.gif" width="100%" alt="Galaxy">
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BB8AFF&height=160&section=header" width="100%">
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
